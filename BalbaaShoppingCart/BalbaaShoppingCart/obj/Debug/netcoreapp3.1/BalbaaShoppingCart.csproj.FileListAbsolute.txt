@@ -1,0 +1,15 @@
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\bin\Debug\netcoreapp3.1\BalbaaShoppingCart.exe
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\bin\Debug\netcoreapp3.1\BalbaaShoppingCart.deps.json
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\bin\Debug\netcoreapp3.1\BalbaaShoppingCart.runtimeconfig.json
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\bin\Debug\netcoreapp3.1\BalbaaShoppingCart.runtimeconfig.dev.json
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\bin\Debug\netcoreapp3.1\BalbaaShoppingCart.dll
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\bin\Debug\netcoreapp3.1\BalbaaShoppingCart.pdb
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\obj\Debug\netcoreapp3.1\BalbaaShoppingCart.csprojAssemblyReference.cache
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\obj\Debug\netcoreapp3.1\BalbaaShoppingCart.frmShoppingCart.resources
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\obj\Debug\netcoreapp3.1\BalbaaShoppingCart.csproj.GenerateResource.cache
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\obj\Debug\netcoreapp3.1\BalbaaShoppingCart.AssemblyInfoInputs.cache
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\obj\Debug\netcoreapp3.1\BalbaaShoppingCart.AssemblyInfo.cs
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\obj\Debug\netcoreapp3.1\BalbaaShoppingCart.csproj.CoreCompileInputs.cache
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\obj\Debug\netcoreapp3.1\BalbaaShoppingCart.dll
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\obj\Debug\netcoreapp3.1\BalbaaShoppingCart.pdb
+D:\omar\C# applications\BalbaaShoppingCart\BalbaaShoppingCart\obj\Debug\netcoreapp3.1\BalbaaShoppingCart.genruntimeconfig.cache
